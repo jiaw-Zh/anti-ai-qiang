@@ -1,8 +1,8 @@
 # Anti-AI-Qiang (抗 AI 腔)
 
 `anti-ai-qiang` 是一个用于消除文本中 AI 痕迹和陈词滥调的提示词技能（Skill）。它融合了以下两个优秀的项目：
-1. **[humanizer](https://github.com/blader/humanizer)**：基于维基百科 AI 清理项目（WikiProject AI Cleanup）详尽的“AI 写作迹象”指南。
-2. **[stop-slop](https://github.com/hardikpandya/stop-slop)**：基于 Hardik Pandya 开发的 “Stop Slop” 提示词指南。
+1. **[humanizer](https://github.com/blader/humanizer)**（22.4k 🌟）：基于维基百科 AI 清理项目（WikiProject AI Cleanup）详尽的“AI 写作迹象”指南。
+2. **[stop-slop](https://github.com/hardikpandya/stop-slop)**（8.8k 🌟）：基于 Hardik Pandya 开发的 “Stop Slop” 提示词指南。
 
 本项目通过多文件拆分和精细的融合，移除了无意义的客套垫话、大厂黑话、戏剧化断句、虚假施动者等 39 条 AI 特征模式，提供了灵活的声音微调方案、严格的评分系统与快速检查表，让大语言模型重新用有温度、长短错落、直截了当的真实人类声音进行写作。
 
