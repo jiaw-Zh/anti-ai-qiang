@@ -358,7 +358,7 @@ license: MIT
 
 ## 完整示例
 
-请参阅 [references/examples.md](references/examples.md) 中的 [示例 29](references/examples.md)(示例-29完整的端到端) 查看包含大量 AI 腔的文章如何被完整改写的全部过程（包括初步改写、残留分析、评分修正和最终改写稿）。
+请参阅 [references/examples.md](references/examples.md)中的“示例 29：完整的端到端改写” 查看包含大量 AI 腔的文章如何被完整改写的全部过程（包括初步改写、残留分析、评分修正和最终改写稿）。
 
 
 ## 参考资料
