@@ -28,12 +28,10 @@ anti-ai-qiang/
 
 ## 快速开始
 
-### 1. 在 AI 客户端中作为技能（Skill）使用
-- **Claude Code**：将本文件夹添加为你的本地 Skill，即可在交互中让 Claude 直接调用本技能进行文本去 AI 腔。
-- **Claude Projects**：将 `SKILL.md` 以及 `references/` 目录下的参考文件上传至项目的知识库（Project Knowledge）中。
-
-### 2. 在自定义指令（Custom Instructions）或 API 中使用
-- **自定义指令（System Prompt / GPTs）**：将 `SKILL.md` 中的内容作为核心规则复制到系统提示词中。AI 客户端将能够在此基础上理解规则，并能在需要时通过引导访问参考词典。
+复制这句话发给你的agent，直接让你的agent安装：
+```
+全局安装这个skill：https://github.com/jiaw-Zh/anti-ai-qiang.git
+```
 
 ---
 
